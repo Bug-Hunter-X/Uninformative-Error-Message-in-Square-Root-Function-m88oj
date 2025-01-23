@@ -1,0 +1,3 @@
+# Uninformative Error Message in Square Root Function
+
+This repository demonstrates a common MATLAB error: an uninformative error message that doesn't provide sufficient context for debugging. The `myFunction` calculates the square root of an input number; however, it only produces a generic error message when a negative number is provided, not telling the user which input caused the problem.  The solution improves this by providing a more descriptive error message including the offending value.
